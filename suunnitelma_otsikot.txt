@@ -1,0 +1,22 @@
+Jere Manni - Oman kotisivun suunnittelu
+
+Sivuston tarkoitus on toimia oman osaamiseni esittelynä, ikään kuin CV:n jatkeena, jossa voin tarkentaa työhistoriaani ja osaamistani
+
+Sivun title: Home | Jere Manni Portfolio
+
+
+
+Pääsivun otsikko: Jere Manni
+
+Pääsivun alaotsikot -> Header (Who am I in short), Overview, Recommendations, About me, contact
+
+
+
+
+Alasivut: Education, Work History, Skills
+
+	Education -> Education, Courses and Training, Certificates
+
+	Work History -> Work History, Publications
+
+	Skills -> IT skills, Material Researched skills, Languages

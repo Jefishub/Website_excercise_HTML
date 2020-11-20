@@ -1,0 +1,123 @@
+Sivun title: Home | Jere Manni Portfolio
+
+
+
+Pääsivun otsikko: Jere Manni
+
+
+
+Pääsivun alaotsikot 	
+	(if possible: Make a two part header. Image background with / different color each side (one for researcher,other for software dev))
+	Header:				Materials researcher with 10 years of experience
+						/ Software developer soon to be an expert
+
+	(If possible: make a box with image and text on top (header). When mouseover -> reveal more text. Click to go to page)
+	Overview:
+		Education: 		Master of Science (physics/materials science)
+						Studying information technology at Haaga-Helia
+
+		Work History: 	Researcher / Laboratory engineer (10 years)
+						Microsoft, Hololens 
+						Top Analytica
+						
+		Skills: 		SEM-EDS, XPS (ESCA), BIB ... (using small icons/buttons)
+						Python, Javascript, C++ ...
+
+
+	Recommendations:	Jyrki Juhanoja
+						Ville Saarimaa
+
+
+	Contact:			email.
+						puh.
+						github
+						linkedin
+
+
+
+
+Alasivut: Education, Work History, Skills
+
+	Education:
+		Education:
+			Haaga-Helia University of Applied Sciences (ongoing) 2020 –
+			Bachelor of Business Information Technology (August)
+			
+			Taitotalo (AEL-Amiedu Oy) (ongoing) 2020 –
+			Vocational Qualification in Information Technologies (April)
+			
+			University of Turku, Department of Physics and Astronomy 2005 – 2012
+			Master of Science, Materials Science (Physics)
+			• Master’s Thesis: The use of Broad Ion Beam (BIB) in sample preparation for microanalytical methods
+			• Secondary subjects: Mathematics, Chemistry, Computer Science
+			
+			Kastu High School, Turku (Naturals sciences major) 2002 – 2005
+			Graduate
+
+		Courses and Training:
+			✓ XR-developer module (ongoing, JAMK 2020)
+			✓ Unity Game Developer 3D (ongoing, Udemy 2020)
+			✓ Complete Python 3 Bootcamp (Udemy, 2020)
+			✓ Physical Vapor deposition and Thin Film Growth Models/ Introduction to Atomic Layer Deposition (2018)
+			✓ Introduction to Digital Marketing tools (2018)
+
+		Certificates
+			✓ Proficiency certificate P401 – Identification of Asbestos in Bulk Materials (PLM)
+			✓ First Aid course (2018 - 2021)
+
+	Work History:
+		Work History:
+			Microsoft (via VMP oy) 2019
+			Laboratory engineer (Hololens, waveguide R&D) (Aug - Dec)
+
+			Top Analytica Oy 2012 – 2019
+			Researcher, Team leader of asbestos team (2016-2019)
+			Researcher (2014-2016)
+			Research assistant/Master’s thesis (2012-2014)
+			Summer trainee (2011)
+
+			University of Turku, Department of Physics and Astronomy 2009
+			Summer trainee in the laboratory of materials science
+
+			Itella Oyj, Turku, 2007, 2008, 2010
+			Newspaper deliver – Summer job
+
+		Publications
+			Saarimaa V. et co. (2018)
+			Tailoring of Versatile Surface Morphologies on Hot Dip Galvanized Steel in Wet CO2: Aspects on Formation, Barrier Properties, and Utilization as a Substrate for Coatings
+			ACS Applied Materials & Interfaces, 10(25), pp 21730-21739, doi: 10.1021/acsami.8b05034
+
+			Saarimaa V., Markkula A., Arstila K., Manni J. and Juhanoja J., (2016)
+			Effect of Hot Dip Galvanized Steel Surface Chemistry and Morphology on Titanium Hexafluoride Pretreatment
+			Advances in Materials Physics and Chemistry, Vol.07 No.02(2017), Article ID:74041,14 pages, doi: 10.4236/ampc.2017.72004
+
+			Saarimaa V., Manni J., Kauppinen E., Markkula A., Juhanoja J. and Skrifvars B.-J. (2014)
+			Cross-sectional high-resolution microscopy of thin pretreatment layers on hot dip galvanized steel
+			Surface and Interface Analysis, 46, pages 620–624, doi: 10.1002/sia.5626
+
+	Skills:
+		IT skills:
+			✓ Strong: Microsoft Office
+			✓ Good/Basics: Python, Javascript, C++, Java, C, C#, SQL, HTML, CSS
+			✓ Basics: VSCode, Unity, Linux
+			✓ Marketing: LinkedIn, FB, Google
+			✓ Basic video editing skills
+
+		Material Researched skills:
+			EXPERT
+			✓ SEM-EDS
+			✓ XPS (ESCA)
+			✓ BIB
+			✓ PLM
+
+			EXPERIENCE
+			✓ XRF
+			✓ TOF-SIMS
+			✓ FTIR/ RAMAN
+			✓ AFM
+			✓ Contact Angle
+
+		Languages:
+			✓ Finnish: Native language
+			✓ English: Excellent
+			✓ Swedish: Poor
